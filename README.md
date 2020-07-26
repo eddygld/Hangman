@@ -13,4 +13,4 @@ To run program, you would have to:
   e.g. If my puzzle is **anonymous**, I would pass in `java Hangman anonymous` in the command line.
   
 ## Screenshot
-![Hangman screenshot](/screenshot/screenshot.png)
+![Hangman screenshot](/screenshot/screenshot .png)
